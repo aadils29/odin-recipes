@@ -1,0 +1,15 @@
+* {
+    background-color: #fce5a4;
+}
+
+h1 {
+    text-align: center;
+}
+
+#recipe-list {
+    font-size: 32px;
+}
+
+p, .ingredients,.steps {
+    font-size: 20px;
+}
